@@ -3,7 +3,7 @@ import {QuestionObj} from './types';
 export const state: Array<QuestionObj> = [
    {
       id: 1,
-      question: 'Медицинская генетика изучает',
+      question: 'Медицинская генетика изучает:',
       answers: [
          'генетические основы наследственной патологии человека',
          'обмет веществ и энергии',
